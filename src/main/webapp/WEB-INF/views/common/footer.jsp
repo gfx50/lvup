@@ -1,0 +1,23 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8" errorPage="views/common/error.jsp"
+    %>
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<style type="text/css">
+footer {
+	text-align : center;
+	background-color: navy;
+	color : white;
+}
+</style>
+</head>
+<body>
+<footer>
+copyright@ict.org &nbsp; 지능형 도우미 서비스 융합 웹 개발자과정 <br>
+서울시 서초구 신논현동 ict기술협회, TEL : 02-1234-5678, FAX: 02-5678-1234
+</footer>
+</body>
+</html>
